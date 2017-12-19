@@ -14,7 +14,7 @@ include('includes/head.php');
 <div class="entry-content">
   <div class="container">
     <div class="row">
-    Lorem Ipsum
+
     </div>
   </div>
 </div>
